@@ -1,6 +1,8 @@
 ### Hola Bienvenidos 👋
 Este sitio se construyó usando [GitHub Pages](https://talently.tech/blog/programacion-en-r/).
-
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 <!--
 **karodriguez5/karodriguez5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
