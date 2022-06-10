@@ -5,7 +5,7 @@ Este sitio se construyó usando [GitHub Pages](https://talently.tech/blog/progra
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 @github/support ¿Qué piensas sobre estas actualizaciones?
-<h1 align="center">Hi 👋, I'm karodriguez5</h1>
+<h1 align="center">Hi 👋, I'm Antony Rodriguez</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
 <h3 align="left">Connect with me:</h3>
